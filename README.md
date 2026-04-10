@@ -1,6 +1,15 @@
-## Olá, meu nome é Miguel Baggio 👋
+# Olá, meu nome é Miguel Baggio 👋
 
-Sou estudante do 3° ano do Ensino Médio no IFRS - Campus BG. Estudo programação frontend (JavaScript, aprendendo TypeScript e React) e backend (PHP, e aprendendo Laravel)
+Sou estudante do 3° ano do Ensino Médio no IFRS - Campus BG. Estudo informática para Internet
+
+## Habilidades
+JavaScript
+aprendendo TypeScript e React
+PHP
+HTML, CSS e Tailwind
+aprendendo Laravel
+aprendendo TypeScript e React
+
 Tenho grande interesse na área e gosto muito de aprender constantemente.
 
 <!--
