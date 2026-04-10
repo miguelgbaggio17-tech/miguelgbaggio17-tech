@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá, meu nome é Miguel Baggio 👋
+
+Sou estudante do 3° ano do Ensino Médio no IFRS - Campus BG. Estudo programação frontend (JavaScript, aprendendo TypeScript e React) e backend (PHP, e aprendendo Laravel)
+Tenho grande interesse na área e gosto muito de aprender constantemente.
 
 <!--
 **miguelgbaggio17-tech/miguelgbaggio17-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
